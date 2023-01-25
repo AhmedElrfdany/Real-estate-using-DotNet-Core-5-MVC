@@ -1,0 +1,148 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Real_Estate
+build_property.RootNamespace = Real_Estate
+build_property.ProjectDir = C:\Users\Ahmed\Desktop\Real_Estate\Real_Estate\Real_Estate\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Ahmed\Desktop\Real_Estate\Real_Estate\Real_Estate
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/govarnates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ292YXJuYXRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/govarnates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ292YXJuYXRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/govarnates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ292YXJuYXRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/govarnates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ292YXJuYXRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/govarnates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcZ292YXJuYXRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Images/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Images/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Images/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Images/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Images/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Posts/Create  .cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQ3JlYXRlICAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Posts/Create .cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQ3JlYXRlIC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Posts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Posts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Posts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Posts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Posts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/regions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVnaW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/regions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVnaW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/regions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVnaW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/regions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVnaW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/regions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccmVnaW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2v52nj5rc5
+
+[C:/Users/Ahmed/Desktop/Real_Estate/Real_Estate/Real_Estate/Views/Shared/_Layout_users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfdXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-p6qot4ht6a
